@@ -8,17 +8,56 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e853e5ff91256b9",
+            "id": "4edc7ff5fcbd05f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Делимость в кольце многочленов/1. Наибольший общий делитель.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "742dbff7677e2442",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Оглавление.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
+            },
+            "group": "1e4c4a919760b78e"
+          },
+          {
+            "id": "84a50e102187624e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
+          }
+        ]
+      },
+      {
+        "id": "085653800f8b6d57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14ccbe716574f1d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Оглавление.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "1e4c4a919760b78e"
           }
         ]
       }
@@ -49,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#wip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Оглавление.md",
+                "file": "Делимость в кольце многочленов/1. Наибольший общий делитель.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Оглавление.md",
+                "file": "Делимость в кольце многочленов/1. Наибольший общий делитель.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Оглавление.md"
+                "file": "Делимость в кольце многочленов/1. Наибольший общий делитель.md"
               }
             }
           }
@@ -148,17 +186,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e853e5ff91256b9",
+  "active": "4edc7ff5fcbd05f9",
   "lastOpenFiles": [
     "Оглавление.md",
+    "Многочлены база.pdf",
+    "Кольцо многочленов.md",
+    "README.md",
     "Кольцо многочленов/10. Интерполяционная задача.md",
-    "Кольцо многочленов/9. Формальное и функциональное равенство многочленов.md",
-    "Кольцо многочленов/8. Кратные корни и производная.md",
-    "Кольцо многочленов/7. Кратные корни многочленов.md",
-    "Кольцо многочленов/6. Производная многочлена.md",
-    "Кольцо многочленов/5. Характеристика поля.md",
+    "Делимость в кольце многочленов/1. Наибольший общий делитель.md",
     "Кольцо многочленов/1. Кольцо многочленов.md",
-    "Кольцо многочленов/2. Биномиальные коэффициенты.md",
-    "Кольцо многочленов/3. Теорема о делении с остатком в кольце многочленов.md"
+    "Кольцо многочленов/Многочлены база.md",
+    "Кольцо многочленов/9. Формальное и функциональное равенство многочленов.md",
+    "многочлены база.pdf"
   ]
 }
