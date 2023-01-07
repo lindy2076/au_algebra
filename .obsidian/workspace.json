@@ -17,8 +17,20 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "f96a42e85f38e162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теория групп/2. Изоморфизм групп.md",
+                "mode": "source",
+                "source": false
+              }
             },
-            "group": "03e8bfe862ae934a"
+            "group": "b7ad8601986a3814"
           },
           {
             "id": "fef639d6badc0f98",
@@ -26,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Теория групп/8. Симметрические группы.md",
+                "file": "Теория групп/9. Чётность перестановок.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,24 +64,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "dec2c5d758f8b712",
+        "id": "d4dc2028df1cf8da",
         "type": "tabs",
         "children": [
           {
-            "id": "36e5bcab0b9ca282",
+            "id": "310c9fb6cb6c796d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Оглавление.md",
+                "file": "Теория групп/2. Изоморфизм групп.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "03e8bfe862ae934a"
+            "group": "b7ad8601986a3814"
           }
         ]
       }
@@ -100,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#класс_смежности",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Оглавление.md",
+                "file": "Теория групп/2. Изоморфизм групп.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Оглавление.md",
+                "file": "Теория групп/2. Изоморфизм групп.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Оглавление.md"
+                "file": "Теория групп/2. Изоморфизм групп.md"
               }
             }
           }
@@ -198,17 +211,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b7e4f4dc1f9aa6a",
+  "active": "310c9fb6cb6c796d",
   "lastOpenFiles": [
+    "Теория групп/Теория групп.md",
     "Теория групп/9. Чётность перестановок.md",
     "Теория групп/8. Симметрические группы.md",
     "Теория групп/7. Теорема Лагранжа.md",
     "Теория групп/6. Классы смежности.md",
     "Теория групп/5. Циклические группы.md",
-    "Теория групп/1. Группы.md",
-    "Теория групп/3. Подгруппы.md",
     "Теория групп/4. Теорема о делении с остатком в целых числах.md",
-    "Кольцо многочленов/3. Теорема о делении с остатком в кольце многочленов.md",
-    "Делимость в кольце многочленов/1. Наибольший общий делитель.md"
+    "Теория групп/3. Подгруппы.md",
+    "Теория групп/2. Изоморфизм групп.md",
+    "Теория групп/1. Группы.md"
   ]
 }
