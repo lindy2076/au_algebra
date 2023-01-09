@@ -37,11 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Действие групп на множествах/10. Центр группы. Центр p-группы.md",
+                "file": "Теория групп/7. Теорема Лагранжа.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "fd50b725f038aeff"
           },
           {
             "id": "b70298d55c7bb18e",
@@ -56,7 +57,26 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "f24256d82b5b22b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c4390f77ddec1f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теория групп/7. Теорема Лагранжа.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "fd50b725f038aeff"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Действие групп на множествах/Действие групп.md",
+                "file": "Теория групп/7. Теорема Лагранжа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Действие групп на множествах/Действие групп.md",
+                "file": "Теория групп/7. Теорема Лагранжа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Действие групп на множествах/Действие групп.md"
+                "file": "Теория групп/7. Теорема Лагранжа.md"
               }
             }
           }
@@ -184,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "641836bbe6ed61b2",
+  "active": "34c7d24c018b4c61",
   "lastOpenFiles": [
     "Действие групп на множествах/10. Центр группы. Центр p-группы.md",
     "Действие групп на множествах/Действие групп.md",
