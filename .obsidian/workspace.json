@@ -1,56 +1,23 @@
 {
   "main": {
-    "id": "d7c8a24bc1b77650",
+    "id": "5b03083f57dce10c",
     "type": "split",
     "children": [
       {
-        "id": "dd8eb8dd434d3e63",
+        "id": "899b57449977cdca",
         "type": "tabs",
         "children": [
           {
-            "id": "eaac811110985392",
+            "id": "2b06bc6d1d9fe7d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Теория групп/8. Симметрические группы.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "bf5396913b91d0ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "a1fa50052af8368c"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "00bbd41e24956c43",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f1796b612a2c6080",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "a1fa50052af8368c"
           }
         ]
       }
@@ -58,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c9b7bb679c92bd5c",
+    "id": "9337991e743b64f4",
     "type": "split",
     "children": [
       {
-        "id": "f0301714f53d983b",
+        "id": "17ca67f0f091066c",
         "type": "tabs",
         "children": [
           {
-            "id": "0b428f7d5831a853",
+            "id": "b32d6c3285177464",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +43,7 @@
             }
           },
           {
-            "id": "b748ce1f9959b6fa",
+            "id": "a3a3575cd5a4cccf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -91,7 +58,7 @@
             }
           },
           {
-            "id": "81b46803f8b57837",
+            "id": "0bf583cec8f766bd",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -105,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "8fe509216811a895",
+    "id": "68cb55add1e68722",
     "type": "split",
     "children": [
       {
-        "id": "ff56f123084af792",
+        "id": "12a1ec6f76cb4376",
         "type": "tabs",
         "children": [
           {
-            "id": "14476bfca79c3523",
+            "id": "b93a4eb57cc89a03",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -130,7 +97,7 @@
             }
           },
           {
-            "id": "8842619460c5ffab",
+            "id": "f646441679ee7f4c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -142,7 +109,7 @@
             }
           },
           {
-            "id": "41f8eb0418a1fa3f",
+            "id": "96527f32f3655d24",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,7 +120,7 @@
             }
           },
           {
-            "id": "9923031cc56618a5",
+            "id": "b9c50d5932be61af",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -162,8 +129,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,17 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf5396913b91d0ef",
+  "active": "2b06bc6d1d9fe7d6",
   "lastOpenFiles": [
-    "Делимость в кольце многочленов/5. Алгебраически замкнутые поля.md",
-    "Делимость в кольце многочленов/4. Неприводимые многочлены. ОТА в кольце многочленов.md",
-    "Делимость в кольце многочленов/3. Взаимно простые многочлены.md",
-    "Делимость в кольце многочленов/2. Алгоритм Евклида.md",
-    "Делимость в кольце многочленов/1. Наибольший общий делитель.md",
-    "Кольцо многочленов/4. Значение многочлена в точке. Теорема Безу.md",
-    "Теория групп/8. Симметрические группы.md",
-    "Оглавление.md",
-    "Действие групп на множествах/10. Центр группы. Центр p-группы.md",
-    "Действие групп на множествах/9. Действие группы на множестве и гомоморфизмы.md"
+    "Многочлены база.pdf",
+    "Действие групп.pdf"
   ]
 }
