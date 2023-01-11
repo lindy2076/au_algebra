@@ -8,29 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b06bc6d1d9fe7d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "faaacc179d01d9f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Пространства со скалярным произведением/3. Положительно определённые формы. Евклидовы и унитарные пространства.md",
+                "file": "Пространства со скалярным произведением/4. Матрица Грама.md",
                 "mode": "source",
                 "source": true
               }
             },
             "group": "0cf484993cacd8c5"
+          },
+          {
+            "id": "a84b7c5a93aa15ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Оглавление.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           },
           {
             "id": "bea17244524aba08",
@@ -52,7 +52,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a88fee986f0e425d",
@@ -64,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Пространства со скалярным произведением/3. Положительно определённые формы. Евклидовы и унитарные пространства.md",
+                "file": "Пространства со скалярным произведением/4. Матрица Грама.md",
                 "mode": "preview",
                 "source": false
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Оглавление.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Оглавление.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Оглавление.md"
               }
             }
           }
@@ -198,14 +199,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b06bc6d1d9fe7d6",
+  "active": "a84b7c5a93aa15ff",
   "lastOpenFiles": [
-    "Пространства со скалярным произведением/3. Положительно определённые формы. Евклидовы и унитарные пространства.md",
     "Пространства со скалярным произведением/4. Матрица Грама.md",
+    "Пространства со скалярным произведением/5. Теорема Коши-Буняковского.md",
+    "Пространства со скалярным произведением/3. Положительно определённые формы. Евклидовы и унитарные пространства.md",
+    "README.md",
     "Пространства со скалярным произведением/2. Квадратичные формы.md",
     "Пространства со скалярным произведением/1. Билинейные и полуторалинейные формы.md",
     "Оглавление.md",
-    "README.md",
     "Многочлены база.pdf",
     "Действие групп.pdf"
   ]
