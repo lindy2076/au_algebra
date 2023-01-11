@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "#форма",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 12.4553890078515,
   "linkStrength": 0.908279800142755,
   "linkDistance": 269,
-  "scale": 0.22039847021366873,
+  "scale": 0.29799088815605623,
   "close": false
 }
