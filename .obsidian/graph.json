@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "#множество",
+      "color": {
+        "a": 1,
+        "rgb": 1567470
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 12.4553890078515,
   "linkStrength": 0.908279800142755,
   "linkDistance": 269,
-  "scale": 0.13960389370138285,
+  "scale": 0.24066627618933933,
   "close": true
 }
